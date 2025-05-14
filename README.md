@@ -9,7 +9,8 @@ For this section of the lab we would like you to:
     1. IF you accidentally forked this repository instead of cloning it ake sure you are creating a pull request to the correct repo.
     2. Any pull request made to the starter repository will be deleted.
     3. **You will lose points if you make a pull request to the starter code repo instead of your own repo**
-7. If all is done correctly, you will get a green checkmark saying ready to merge! Please take a screenshot of this checkmark. (Make sure your github username is somewhere in the screenshot)
+7. Wait for the automatic tests to finish running.
+8. If all is done correctly, you will get a green checkmark saying ready to merge! It should also say "All tests passed" or "successful check performed." Please take a screenshot of this checkmark. (Make sure your github username is somewhere in the screenshot)
 
 ### Details
 
